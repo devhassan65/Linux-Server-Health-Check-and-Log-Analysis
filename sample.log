@@ -1,0 +1,5 @@
+INFO: Application started
+ERROR: Database connection failed
+INFO: User logged in
+ERROR: API request failed
+WARNING: High response time
